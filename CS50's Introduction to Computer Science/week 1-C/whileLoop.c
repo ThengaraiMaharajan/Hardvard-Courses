@@ -6,6 +6,8 @@ int main (void){
         counter++;
     }
 
+    
+
     for (int i = 3; i > 0; i--){
         printf("Hello, World! , %i \n", i);
     }
